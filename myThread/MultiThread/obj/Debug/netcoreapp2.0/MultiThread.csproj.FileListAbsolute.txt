@@ -1,0 +1,10 @@
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\bin\Debug\netcoreapp2.0\MultiThread.deps.json
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\bin\Debug\netcoreapp2.0\MultiThread.runtimeconfig.json
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\bin\Debug\netcoreapp2.0\MultiThread.runtimeconfig.dev.json
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\bin\Debug\netcoreapp2.0\MultiThread.dll
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\bin\Debug\netcoreapp2.0\MultiThread.pdb
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\obj\Debug\netcoreapp2.0\MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\obj\Debug\netcoreapp2.0\MultiThread.AssemblyInfoInputs.cache
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\obj\Debug\netcoreapp2.0\MultiThread.AssemblyInfo.cs
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\obj\Debug\netcoreapp2.0\MultiThread.dll
+C:\Users\nadia.oliveira\source\repos\myThread\MultiThread\obj\Debug\netcoreapp2.0\MultiThread.pdb

@@ -1,0 +1,11 @@
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\bin\Debug\netcoreapp2.0\myThread.deps.json
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\bin\Debug\netcoreapp2.0\myThread.runtimeconfig.json
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\bin\Debug\netcoreapp2.0\myThread.runtimeconfig.dev.json
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\bin\Debug\netcoreapp2.0\myThread.dll
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\bin\Debug\netcoreapp2.0\myThread.pdb
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\obj\Debug\netcoreapp2.0\myThread.csprojAssemblyReference.cache
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\obj\Debug\netcoreapp2.0\myThread.csproj.CoreCompileInputs.cache
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\obj\Debug\netcoreapp2.0\myThread.AssemblyInfoInputs.cache
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\obj\Debug\netcoreapp2.0\myThread.AssemblyInfo.cs
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\obj\Debug\netcoreapp2.0\myThread.dll
+C:\Users\nadia.oliveira\source\repos\myThread\myThread\obj\Debug\netcoreapp2.0\myThread.pdb
